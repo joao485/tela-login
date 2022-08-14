@@ -102,3 +102,12 @@ button:hover {
 .margin-left-50 {
     margin-left: 50px;
 }
+
+/*
+    LOGIN
+*/
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
