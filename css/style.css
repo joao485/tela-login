@@ -295,5 +295,5 @@ a:hover {
     background-color: var(--points-list);
     top: 45%;
     transform: translateY(-50%);
-    left: 0%;
+    left: 0;
 }
