@@ -1,4 +1,6 @@
-/*VARIÁVEIS*/
+/*
+    VARIÁVEIS
+*/
 
 :root {
     --main-color: #693a70;
@@ -11,7 +13,9 @@
     --line-input: #D9D9D9;
 }
 
-/*FONTES*/
+/*
+    FONTES
+*/
 
 @font-face {
     font-family: Poppins-Regular;
@@ -33,7 +37,7 @@
     src: url('../fonts/Poppins/Poppins-SemiBold.ttf');
 }
 
-
+/*
     ZERAR ESTILOS
 */
 
